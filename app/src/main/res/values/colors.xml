@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_286">#FFB886FC</color>
+    <color name="purple_586">#FF6280EE</color>
+    <color name="purple_786">#FF3780B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="royal_blue_dark">#4A5278</color> <!-- Lightest Dark Royal Blue -->
+    <color name="dark_blue">#606C8E</color> <!-- Lightest Dark Blue -->
+    <color name="dark_purple">#7E8699</color> <!-- Lightest Dark Purple -->
+    <color name="purple">#939DB2</color> <!-- Lightest Purple -->
+    <color name="green">#46D2A3</color> <!-- Lightest Green -->
+    <color name="red">#FF7D8A</color> <!-- Lightest Red -->
+    <color name="black">#4D4D4D</color> <!-- Lightest Black -->
+    <color name="white">#F7F7F7</color> <!-- Lightest White -->
+
+
+</resources>
