@@ -20,12 +20,16 @@ android {
     }
 
     buildTypes {
+        debug {
+            isDebuggable = false // Set debuggable to false for the debug build
+        }
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = false // Ensuring minification is disabled for release
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            isDebuggable = false // Set debuggable to false for the release build (default)
         }
     }
     compileOptions {
